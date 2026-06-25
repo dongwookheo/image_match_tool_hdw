@@ -1,0 +1,3 @@
+[submodule "thirdparty/DearPyGui"]
+	path = thirdparty/DearPyGui
+	url = https://github.com/hoffstadt/DearPyGui.git
