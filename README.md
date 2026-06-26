@@ -29,6 +29,10 @@ python examples/match_pair.py data/0000_left.png data/0000_right.png --show
 python examples/match_pair_gui.py
 ```
 
+![matcher_hdw GUI example](https://github.com/user-attachments/assets/dadb7853-974e-449e-97ef-970bd50df8c7)
+
+*DearPyGui example with image inputs, matcher config, and four visualization panels.*
+
 The GUI uses DearPyGui. Initialize submodules and install the GUI extra before running it:
 
 ```bash
